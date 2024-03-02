@@ -9,7 +9,7 @@ public class Cat {
     public Cat() {
         weight = 3000;
         name = "Barsik";
-        age = 1;
+        age = 2;
         color = "Grey";
     }
 
